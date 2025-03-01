@@ -1,4 +1,3 @@
-package Program;
 public class Petshop {
     private String id;
     private String namaProduk;

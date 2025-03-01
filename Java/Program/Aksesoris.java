@@ -1,4 +1,3 @@
-package Program;
 public class Aksesoris extends Petshop {
     private String jenis;
     private String bahan;
