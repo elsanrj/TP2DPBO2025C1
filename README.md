@@ -9,7 +9,8 @@ Program merupakan implementasi multilevel inheritance yang terdiri dari 3 level 
 - Class Petshop dengan atribut: ID, namaProduk, hargaProduk, stokProduk, fotoProduk; 
 - Class Aksesoris dengan atribut: jenis, bahan, warna;
 - Class Baju dengan atribut: untuk, size, merk.
-  Dengan catatan Class Petshop merupakan superclass terhadap Class Aksesoris dan Class Aksesoris merupakan superclass terhadap Class Baju.
+
+Dengan catatan Class Petshop merupakan superclass terhadap Class Aksesoris dan Class Aksesoris merupakan superclass terhadap Class Baju.
 
 Secara umum, method utama yang digunakan dalam program ini terdiri dari:
 - add(): untuk menambahkan data ke dalam list dengan bantuan setter dari atribut Class Baju
