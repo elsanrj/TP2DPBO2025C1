@@ -1,0 +1,57 @@
+006 OnesieDinoAnjing 25000 25 Kostum Wol Hijau Anjing M CozyPaws  
+007 JasHujanKucing 15000 10 JasHujan PVC Transparan Kucing S RainyMeow  
+008 BajuPantaiAnjing 28000 20 Baju Katun Merah Anjing L FitPup  
+009 SeragamPolisiKucing 35000 8 Kostum Satin Cokelat Kucing M FancyFur  
+010 BajuKokoKucing 24000 15 Kemeja Katun Putih Kucing XL HiMeo
+
+5
+006
+OnesieDinoAnjing
+25000
+25
+Kostum
+Wol
+Hijau
+Anjing
+M
+CozyPaws
+007
+JasHujanKucing
+15000
+10
+JasHujan
+PVC
+Transparan
+Kucing
+S
+RainyMeow
+008
+BajuPantaiAnjing
+28000
+20
+Baju
+Katun
+Merah
+Anjing
+L
+FitPup
+009
+SeragamPolisiKucing
+35000
+8
+Kostum
+Satin
+Cokelat
+Kucing
+M
+FancyFur
+010
+BajuKokoKucing
+24000
+15
+Kemeja
+Katun
+Putih
+Kucing
+XL
+HiMeo
