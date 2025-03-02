@@ -1,5 +1,5 @@
 # Janji
-Saya Elsa Nurjanah dengan NIM 2306026 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Elsa Nurjanah dengan NIM 2306026 mengerjakan Tugas Praktikum 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 # Diagram
 ![TP2_DiagramClassPetshop](https://github.com/user-attachments/assets/a50312b0-001e-4e29-a6a8-53fbea8090b9)
